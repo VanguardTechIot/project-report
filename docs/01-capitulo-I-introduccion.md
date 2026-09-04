@@ -137,5 +137,23 @@ StorePulse debe atender los siguientes aspectos, ordenados por su contribución 
 
 <div class="page"></div>
 
+### 1.2.2. Lean UX Process
+
+En esta sección se detalla el proceso de trabajo aplicado por el equipo para StorePulse. Mediante un enfoque ágil y colaborativo, las creencias iniciales del equipo sobre el negocio y sus usuarios se declararon de forma explícita y se convirtieron en hipótesis verificables. Este proceso permite alinear los resultados esperados del negocio con las necesidades del administrador de galería y del inquilino de local, garantizando que las funcionalidades propuestas respondan a un beneficio identificado y no a una suposición no examinada.
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+Se elabora un único Problem Statement para todo el proyecto, considerando ambos segmentos objetivo, según la plantilla *Brand new initiative*.
+
+El estado actual de **la gestión operativa de galerías comerciales en Lima Metropolitana** se ha enfocado principalmente en **la vigilancia presencial de áreas comunes, la inspección manual periódica y el prorrateo estimado de los servicios básicos, atendiendo a administradores e inquilinos únicamente después de que un incidente ha ocurrido**.
+
+Lo que los productos y servicios existentes no logran atender es **la ausencia de medición individual por local: las soluciones de seguridad electrónica se ofrecen como suscripciones concebidas para un comercio autónomo, con costos y contratos que no se ajustan al formato de galería, y ninguna integra en un mismo lugar la detección de intrusión, la detección temprana de humo y el consumo verificable de servicios**.
+
+Nuestro producto atenderá esta brecha mediante **una plataforma IoT que instala dispositivos de bajo costo en cada local, procesa la telemetría en el borde para operar aun sin conectividad, y expone la información en aplicaciones web y móvil con alcance diferenciado según el rol del usuario**.
+
+Nuestro enfoque inicial será **los administradores e inquilinos de galerías comerciales de alta densidad de locales en Lima Metropolitana, específicamente en Gamarra, Mesa Redonda, Las Malvinas y el jirón Wilson**.
+
+Sabremos que hemos tenido éxito cuando observemos que **los administradores sustituyen la inspección manual por la revisión del tablero de control, los inquilinos consultan el consumo de su local antes de cuestionar la facturación, y ambos actúan sobre una alerta durante el evento y no después de él**.
+
 
     
