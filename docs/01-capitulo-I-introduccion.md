@@ -86,4 +86,10 @@ En esta sección se presentan los antecedentes y la problemática que sustentan 
 
 <div class="page"></div>
 
+El análisis bajo la técnica de las 5 'W's y 2 'H's revela que el problema no es la ausencia de tecnología en el mercado, sino que la disponible fue diseñada para un comercio autónomo y no para un edificio donde decenas de negocios independientes comparten infraestructura, riesgos y facturación.
+
+La magnitud del fenómeno delictivo sustenta este diagnóstico. Según **Gestión (2025)**, seis de cada diez pequeños comerciantes identifican la inseguridad como el mayor desafío de su distrito, por encima de la situación económica o política. El Sexto Reporte del Observatorio del Crimen y la Violencia, citado por **Gestión (2026)**, estima el costo de la inseguridad para el país en US$ 11 800 millones anuales y registra que el 59 % de los limeños conoce negocios cerrados o restringidos por la delincuencia, frente al 50 % del año previo. Las galerías figuran entre los cinco tipos de negocio más vulnerables, mientras que la adopción de videovigilancia monitoreada apenas bordea el 15 % (**El Comercio, 2024a**).
+
+A ello se suma un riesgo de alcance colectivo que el formato amplifica. En mayo de 2024 un incendio consumió la galería Los Portales, en el jirón Andahuaylas, y se propagó a los locales colindantes; una de las galerías afectadas no contaba con licencia de funcionamiento (**El Comercio, 2024b**). El Cuerpo General de Bomberos Voluntarios del Perú advirtió entonces que la mercadería apilada hasta el techo obstaculiza las labores de extinción (**Infobae, 2024**), de modo que el factor determinante es el tiempo de detección. El tercer eje, la opacidad en el cobro de servicios, carece de mediciones publicadas para el caso peruano, por lo que su cuantificación forma parte de los objetivos de las entrevistas del Capítulo II. El universo afectado es considerable: solo en el Emporio Comercial de Gamarra el **INEI (2018)** registró 39 630 establecimientos con 80 183 trabajadores, donde el 99,6 % son micro y pequeñas empresas.
+
 
