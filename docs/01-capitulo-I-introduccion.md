@@ -254,3 +254,15 @@ A continuación, mostraremos el análisis de los procesos iterativos y descubrim
 
 <div class="page"></div>
 
+## 1.3. Segmentos objetivo
+
+En esta sección se presentan los criterios que VanguardTech consideró en la selección de sus segmentos objetivo, de acuerdo con su relevancia en el dominio de la seguridad y la gestión operativa de galerías comerciales. A continuación se describe cada segmento junto con sus características demográficas y la información estadística que justifica su inclusión en el mercado objetivo.
+
+1. **Administrador o propietario de galería comercial**
+
+  * **Descripción:** Este segmento está conformado por los responsables de la rentabilidad, el mantenimiento y la seguridad de las áreas comunes de inmuebles comerciales sujetos al régimen de propiedad exclusiva y propiedad común. Recaudan los gastos comunes de los inquilinos, responden ante la autoridad municipal por las condiciones de seguridad del edificio y autorizan cualquier intervención sobre su infraestructura, por lo que constituyen el decisor de compra de la solución.
+
+  * **Características demográficas:** Este perfil corresponde mayoritariamente a personas entre 35 y 60 años, de ambos géneros, residentes en Lima Metropolitana, con educación superior técnica o universitaria y experiencia previa en administración de propiedades o en el comercio. Gestionan las operaciones desde una oficina dentro del inmueble o de forma remota, utilizan la computadora como interfaz principal apoyándose en hojas de cálculo para el control de cobros, y priorizan la vista consolidada del edificio sobre el detalle de un local individual.
+
+  * **Información estadística:** Las galerías comerciales figuran entre los cinco tipos de negocio más vulnerables al delito identificados por el sector de seguridad privada, mientras que la penetración de servicios de videovigilancia monitoreada en negocios apenas bordea el 15 %, lo que evidencia una brecha amplia entre el nivel de riesgo y la protección efectivamente contratada (El Comercio, 2024). El 59 % de los limeños conoce negocios que han cerrado o restringido sus actividades por causa de la delincuencia, frente al 50 % del año previo (Gestión, 2026), presión que recae directamente sobre la ocupación del inmueble que este segmento administra. No existe registro público que cense a los administradores de galerías del país, por lo que el tamaño del segmento se estima a partir del número de inmuebles: solo en el Emporio Comercial de Gamarra, los 39 630 establecimientos registrados por el Instituto Nacional de Estadística e Informática se distribuyen en galerías concentradas en un perímetro reducido (INEI, 2018).
+
