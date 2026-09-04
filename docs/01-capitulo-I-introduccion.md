@@ -92,4 +92,50 @@ La magnitud del fenómeno delictivo sustenta este diagnóstico. Según **Gestió
 
 A ello se suma un riesgo de alcance colectivo que el formato amplifica. En mayo de 2024 un incendio consumió la galería Los Portales, en el jirón Andahuaylas, y se propagó a los locales colindantes; una de las galerías afectadas no contaba con licencia de funcionamiento (**El Comercio, 2024b**). El Cuerpo General de Bomberos Voluntarios del Perú advirtió entonces que la mercadería apilada hasta el techo obstaculiza las labores de extinción (**Infobae, 2024**), de modo que el factor determinante es el tiempo de detección. El tercer eje, la opacidad en el cobro de servicios, carece de mediciones publicadas para el caso peruano, por lo que su cuantificación forma parte de los objetivos de las entrevistas del Capítulo II. El universo afectado es considerable: solo en el Emporio Comercial de Gamarra el **INEI (2018)** registró 39 630 establecimientos con 80 183 trabajadores, donde el 99,6 % son micro y pequeñas empresas.
 
+**Enunciado del problema**
 
+Los administradores de galerías comerciales de Lima Metropolitana y los inquilinos que ocupan sus locales operan sin información medida sobre lo que ocurre dentro del inmueble. La seguridad depende de vigilancia presencial que no cubre la totalidad de los locales ni del horario; el incendio se detecta cuando ya se propagó, en edificaciones donde la contigüidad y la densidad de material inflamable multiplican las consecuencias; y los servicios se facturan mediante prorrateos que ninguna de las partes puede sustentar. El resultado es una operación reactiva, con pérdidas patrimoniales evitables, exposición a siniestros de alcance colectivo y una relación comercial erosionada por cobros no verificables.
+
+
+**Aspectos que debe resolver la solución**
+
+StorePulse debe atender los siguientes aspectos, ordenados por su contribución al problema descrito.
+
+1. Detectar y notificar la intrusión en un local en el momento en que ocurre, mediante sensores de movimiento y activación por proximidad, con registro visual asociado al evento.
+
+2. Detectar la presencia de humo en fase temprana y escalar la alerta de forma simultánea al inquilino del local afectado y al administrador de la galería.
+
+3. Medir el consumo individual de servicios por local y ponerlo a disposición de ambas partes con el mismo nivel de detalle, de modo que la facturación deje de basarse en estimaciones.
+
+4. Procesar los datos recolectados para producir información cuantitativa derivada, como el consumo acumulado por periodo, el promedio histórico por local y la detección de desviaciones respecto de la línea base, y presentarla mediante visualizaciones comprensibles para usuarios sin formación técnica.
+
+5. Diferenciar el alcance de la información según el rol: el administrador accede a la vista consolidada del inmueble y el inquilino únicamente a la de su propio local.
+
+6. Garantizar la operación de la detección y el registro local aun cuando la conectividad con la nube se interrumpa, mediante procesamiento en el borde.
+
+**Objetivos**
+
+*Objetivo general:* desarrollar una solución de software basada en IoT que permita a administradores e inquilinos de galerías comerciales de Lima Metropolitana supervisar de forma remota la seguridad perimetral, el riesgo de incendio y el consumo de servicios de sus locales, sustituyendo la inspección manual y el cobro estimado por información medida y verificable.
+
+*Objetivos específicos:*
+
+- Implementar una aplicación embebida sobre un prototipo físico de dispositivo IoT con sensores de movimiento, proximidad, humo y medición de consumo.
+- Desarrollar un Edge API de elaboración interna que reciba, valide y almacene localmente la telemetría, y la transmita al servicio en la nube.
+- Desarrollar un RESTful API de elaboración interna que consolide la información de todos los locales, gestione la identidad y el control de acceso por rol, y exponga los cálculos estadísticos sobre el consumo histórico.
+- Construir aplicaciones web y móvil integradas con el RESTful API, con alertas y visualización de información cuantitativa en una interfaz adaptable.
+- Publicar un sitio web estático de Landing Page que presente el modelo de negocio a ambos segmentos y los dirija al punto de acceso correspondiente.
+- Validar la propuesta con representantes de ambos segmentos mediante entrevistas y evaluación según heurísticas.
+
+**Restricciones**
+
+- *Alcance funcional:* la solución cubre detección, notificación, medición y visualización. No incluye respuesta física ante un evento ni sistemas de extinción de incendios.
+- *Alcance del dispositivo:* el componente de hardware se entrega como prototipo físico con un subconjunto relevante de características, orientado a demostrar el flujo de datos de extremo a extremo.
+- *Alcance geográfico:* la investigación y la validación se circunscriben a galerías comerciales de Lima Metropolitana.
+- *Alcance temporal:* el desarrollo se ejecuta dentro del ciclo académico 2026-20, organizado en tres Sprints.
+- *Restricciones tecnológicas:* la construcción se ciñe al conjunto de tecnologías y herramientas establecido para el curso, con predominio de soluciones open-source.
+- *Restricciones normativas y éticas:* el tratamiento de los datos recolectados, en particular el registro visual asociado a eventos de seguridad, se sujeta a los términos y condiciones del servicio.
+
+<div class="page"></div>
+
+
+    
