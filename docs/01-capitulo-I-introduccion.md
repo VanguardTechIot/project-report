@@ -32,3 +32,58 @@ Consolidarnos en los próximos cinco años como la startup líder en la transfor
 | ![Adrian Quiroz](../assets/team/adrian-quiroz.png) | Adrian Quiroz Caceres | U202214864 | Ingeniería de Software | |
 | ![Joaquín Carranza](../assets/team/joaquin-carranza.png) | Joaquín Enrique Carranza Tesén | U20191B935 | Ingeniería de Software | |
 
+## 1.2. Solution Profile
+
+En esta sección se presentan los antecedentes y la problemática que sustentan la propuesta de StorePulse, así como el proceso de Lean UX mediante el cual el equipo transformó dicha problemática en un conjunto de creencias explícitas y verificables sobre el negocio, los usuarios y las funcionalidades del producto.
+
+### 1.2.1. Antecedentes y problemática
+
+**Técnica de las 5 'W's y 2 'H's**
+
+* **Who (Quién):**
+
+  **Usuarios principales:**
+
+    - **Administrador de galería:** responsable de la rentabilidad, el mantenimiento y la seguridad de las áreas comunes del inmueble, así como del cobro de los      gastos comunes a los inquilinos. Su problema es que la supervisión depende de recorridos presenciales que no cubren todos los locales ni todo el horario, y que no dispone de evidencia para sustentar los importes que factura.
+
+    - **Inquilino del local:** comerciante que alquila un espacio dentro de la galería y cuyo capital de trabajo está invertido en la mercadería almacenada. Su problema es que se entera de una intrusión al abrir su local al día siguiente, y que no puede verificar si el importe de servicios que se le imputa corresponde a su consumo real.
+
+    - **Afectados indirectos:** trabajadores del local, clientes visitantes y comercios colindantes, dado que un siniestro dentro de un local se propaga al resto del inmueble.
+
+* **What (Qué):**
+
+    - **El desafío:** las galerías comerciales operan sin información medida sobre lo que ocurre dentro de sus instalaciones. La intrusión se descubre horas después, el humo se advierte cuando el fuego ya se propagó y el consumo de servicios se factura mediante prorrateos estimados que nadie puede comprobar. Los tres problemas se atienden hoy por separado y de forma reactiva, con herramientas concebidas para un comercio autónomo y no para un inmueble de propiedad compartida.
+
+* **Where (Dónde):**
+
+    - **Entorno físico:** galerías comerciales sujetas al régimen de propiedad exclusiva y propiedad común, donde decenas de locales independientes comparten una misma edificación, una acometida única de energía y agua, pasillos comunes y con frecuencia un solo vigilante para todo el inmueble.
+
+    - **Mercado objetivo:** conglomerados comerciales de alta densidad de locales en Lima Metropolitana, iniciando en Gamarra (La Victoria), Mesa Redonda, Las Malvinas y el jirón Wilson (Cercado de Lima), con proyección hacia galerías de otras regiones del país.
+
+* **When (Cuándo):**
+
+    - **Ciclo de uso:** el inquilino consulta el estado de su local a diario, al abrir y al cerrar. El administrador revisa la información del inmueble de forma semanal y en cada ciclo mensual de facturación de servicios.
+
+    - **Eventos críticos:** las intrusiones se concentran en el horario de cierre, la noche y la madrugada. Los incendios no siguen un patrón horario, pero su gravedad depende del tiempo transcurrido hasta la detección. Los tres problemas se agravan durante las campañas comerciales de julio y diciembre, cuando el volumen de mercadería almacenada alcanza su punto máximo.
+
+* **Why (Por qué):**
+
+    - **Causa raíz:** la gestión de la galería descansa en la inspección humana presencial y en el registro manual, mientras que la infraestructura de servicios fue construida con acometidas compartidas sin medición por unidad. No existe ningún punto del proceso donde se genere un dato verificable.
+
+    - **Desencadenante:** el incremento sostenido de la delincuencia contra los pequeños comercios y la persistencia de siniestros en galerías han elevado el riesgo, mientras que la oferta de seguridad electrónica disponible mantiene costos y contratos concebidos para el local individual, fuera del alcance del microempresario promedio.
+
+* **How (Cómo):**
+
+    - **Condiciones actuales:** la galería contrata uno o dos vigilantes para todo el edificio e instala, en algunos casos, cámaras cuyas grabaciones se revisan únicamente después del incidente. La prevención de incendios se limita a extintores e inspecciones municipales. La facturación de servicios se calcula en una hoja de cálculo y los desacuerdos se resuelven por negociación directa.
+
+    - **Preferencias del usuario:** ninguno de los dos segmentos posee formación técnica, por lo que buscan una solución que no exija configuración ni interpretación de datos especializados, y que se integre a su rutina sin interrumpirla.
+
+* **How Much (Cuánto):**
+
+    - **Cuantificación del daño:** los pequeños comercios de Lima registran pérdidas superiores a **S/ 450 000 diarios** por efecto de la delincuencia, con importes de entre **S/ 3 000 y S/ 7 000** por negocio afectado en casos de cobro de cupos. El **65 %** de las incidencias reportadas en establecimientos comerciales corresponde a intentos de robo. En materia de incendios, un solo siniestro compromete simultáneamente la totalidad de los locales del inmueble.
+
+    - **Brecha de adopción:** la penetración de videovigilancia monitoreada en negocios se mantiene en torno al **15 %**, muy por debajo de la magnitud del riesgo declarado por los propios comerciantes.
+
+<div class="page"></div>
+
+
