@@ -112,3 +112,71 @@ El objetivo del análisis es responder:
 </tr>
 </table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+A partir del análisis competitivo realizado, VanguardTech plantea estrategias y tácticas orientadas a diferenciar StorePulse frente a las soluciones de seguridad y videovigilancia existentes. Estas estrategias buscan aprovechar las oportunidades identificadas, reducir las debilidades propias de una startup y responder a las fortalezas y amenazas de competidores consolidados.
+
+#### Estrategia 1: Diferenciación mediante la integración de servicios
+
+VanguardTech buscará diferenciar a StorePulse mediante la integración de **seguridad, detección de humo y medición de servicios** en una misma solución. Mientras que los competidores analizados presentan principalmente propuestas relacionadas con seguridad, alarmas, monitoreo y videovigilancia, StorePulse incorpora también la medición individual del consumo de servicios por local.
+
+**Tácticas:**
+
+- Integrar en una misma solución la detección de intrusiones, eventos de humo y consumo de servicios.
+- Presentar la información de seguridad y consumo de manera centralizada.
+- Utilizar esta integración como elemento principal de diferenciación frente a las soluciones existentes.
+
+#### Estrategia 2: Especialización en galerías comerciales
+
+VanguardTech enfocará StorePulse específicamente en las necesidades de las **galerías comerciales**, evitando competir directamente con empresas que poseen una oferta amplia para diferentes tipos de establecimientos.
+
+**Tácticas:**
+
+- Diseñar la solución considerando la organización y dinámica de las galerías comerciales.
+- Priorizar las necesidades de administradores e inquilinos de locales comerciales.
+- Orientar la propuesta comercial hacia galerías comerciales con problemas de seguridad y gestión de servicios.
+- Realizar implementaciones piloto en galerías comerciales para validar la solución.
+
+#### Estrategia 3: Transparencia en el consumo de servicios
+
+StorePulse aprovechará la necesidad de contar con información verificable sobre el consumo de servicios básicos para diferenciarse de soluciones enfocadas principalmente en seguridad.
+
+**Tácticas:**
+
+- Registrar el consumo individual correspondiente a cada local.
+- Permitir la consulta del historial de consumo.
+- Proporcionar información diferenciada para administradores e inquilinos.
+- Facilitar la verificación de los consumos utilizados como base para los cobros.
+
+#### Estrategia 4: Continuidad operativa mediante Edge Computing
+
+Para reducir el impacto de posibles interrupciones de conectividad, StorePulse utilizará procesamiento local mediante **Edge Computing**, permitiendo mantener determinadas capacidades de detección y registro incluso cuando la conexión con los servicios centrales se vea afectada.
+
+**Tácticas:**
+
+- Procesar localmente eventos relacionados con seguridad y detección.
+- Mantener el registro de eventos durante interrupciones de conectividad.
+- Sincronizar la información cuando se restablezca la conexión.
+
+#### Estrategia 5: Experiencia diferenciada para administrador e inquilino
+
+VanguardTech adaptará la información presentada según las necesidades de cada segmento. El administrador requiere una visión general de la galería, mientras que el inquilino necesita principalmente información relacionada con su propio local y consumo.
+
+**Tácticas:**
+
+- Proporcionar al administrador información consolidada de los locales y áreas de la galería.
+- Permitir al inquilino consultar información específica de su local.
+- Diferenciar los niveles de información según el tipo de usuario.
+- Priorizar el uso de aplicaciones Web para la gestión administrativa y Mobile para consultas de los inquilinos.
+
+#### Estrategia 6: Crecimiento progresivo y validación de la solución
+
+Debido a que VanguardTech es una startup con una marca y trayectoria comercial aún en desarrollo, se plantea un crecimiento progresivo que permita validar StorePulse antes de ampliar su alcance.
+
+**Tácticas:**
+
+- Implementar inicialmente StorePulse en galerías comerciales seleccionadas.
+- Recoger retroalimentación de administradores e inquilinos durante las primeras implementaciones.
+- Mejorar progresivamente la solución a partir de los resultados obtenidos.
+- Ampliar posteriormente la solución hacia otras galerías y nuevos servicios.
+
