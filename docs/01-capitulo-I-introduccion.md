@@ -210,3 +210,39 @@ En esta sección el equipo declara de forma explícita las creencias que sostien
 
 ---
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+*Hypothesis 1 — Detección de intrusión con registro visual*
+
+* Creemos que lograremos **reducir en un 15 % la tasa de rotación de inquilinos** si **los inquilinos de local** alcanzan **la capacidad de reaccionar ante una intrusión mientras ocurre y de distinguir una alerta real de una falsa sin trasladarse al inmueble** con **la detección por sensores de movimiento y proximidad, con notificación inmediata y captura de imagen asociada al evento**.
+
+*Hypothesis 2 — Detección temprana de humo*
+
+* Creemos que lograremos **una conversión del 30 % de las galerías que reciben una demostración hacia una suscripción activa** si **los administradores de galería** alcanzan **la advertencia de humo con antelación suficiente para actuar antes de que el fuego alcance los locales contiguos** con **el sensor de humo y el escalamiento simultáneo de la alerta al inquilino y al administrador**.
+
+*Hypothesis 3 — Medición individual de consumo*
+
+* Creemos que lograremos **reducir en un 30 % las disputas por cobros de servicios** si **los administradores de galería y los inquilinos de local** alcanzan **una facturación sustentada en consumo real y no en estimaciones** con **los medidores inteligentes de energía y agua instalados por local**.
+
+*Hypothesis 4 — Tablero de control y visualización cuantitativa*
+
+* Creemos que lograremos **reducir en un 50 % el tiempo de resolución de reclamos por facturación** si **los administradores de galería y los inquilinos de local** alcanzan **la comprensión de su consumo y de sus desviaciones sin formación técnica** con **la visualización de consumo acumulado, promedio histórico y desviación respecto de la línea base en el tablero de control**.
+
+*Hypothesis 5 — Control de acceso por rol*
+
+* Creemos que lograremos **una retención de suscripciones superior al 70 % tras el tercer mes** si **los inquilinos de local** alcanzan **la certeza de que el administrador no accede a la actividad interna de su local** con **el control de acceso por rol que delimita el alcance de la información para cada perfil**.
+
+*Hypothesis 6 — Aplicación móvil con notificaciones push*
+
+* Creemos que lograremos **que el 70 % de los inquilinos use la aplicación al menos una vez por semana** si **los inquilinos de local** alcanzan **la posibilidad de supervisar su local mientras se desplazan atendiendo proveedores y clientes** con **la aplicación móvil nativa y las notificaciones push de emergencias en tiempo real**.
+
+*Hypothesis 7 — Procesamiento en el borde*
+
+* Creemos que lograremos **una retención de suscripciones superior al 70 % tras el tercer mes** si **los administradores de galería y los inquilinos de local** alcanzan **la certeza de que la detección y el registro continúan operando ante una caída de conexión** con **el procesamiento y almacenamiento local en el Edge API**.
+
+*Hypothesis 8 — Landing Page diferenciado por segmento*
+
+* Creemos que lograremos **una conversión del 30 % de las galerías que reciben una demostración hacia una suscripción activa** si **los administradores de galería** alcanzan **la comprensión de la propuesta de valor aplicada a su formato de negocio** con **el Landing Page de contenido y llamadas a la acción diferenciados por segmento**.
+
+---
+
