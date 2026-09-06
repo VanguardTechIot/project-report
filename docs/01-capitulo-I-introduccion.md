@@ -22,15 +22,15 @@ Consolidarnos en los próximos cinco años como la startup líder en la transfor
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y aporte al equipo |
-| :---: | :--- | :---: | :--- | :--- |
-| ![Renzo Araujo](../assets/team/renzo-araujo.png) | Renzo José Araujo Ingunza | U202113612 | Ingeniería de Software | |
+| Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y aporte al equipo                                                                                                                                                                                                               |
+| :---: | :--- | :---: | :--- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Renzo Araujo](../assets/team/renzo-araujo.png) | Renzo José Araujo Ingunza | U202113612 | Ingeniería de Software | Soy estudiante de la ingeniería de Software con conocimientos de desarrollo fullstack y arquitectura de software. Me desempeño por ser un buen colaborador y tener una actitud proactiva en el trabajo en equipo.                              | 
 | ![Sebastián Córdova](../assets/team/sebas-cordova.jpeg) | Sebastián Córdova Valdivia | U202111041 | Ingeniería de Software | Estudiante de Ingeniería de Software con interés en el desarrollo full-stack y el análisis de información. Busca especializarse en ciberseguridad, en las áreas de Pentesting y SOC, con el objetivo de diseñar sistemas eficientes y seguros. |
-| ![Angelo Curi](../assets/team/angelo-curi.png) | Angelo Marcio Curi Marcelo | U202022387 | Ingeniería de Software | |
-| ![Miguel Esquirva](../assets/team/miguel-esquirva.png) | Miguel Juan Diego Esquirva León | U202310837 | Ingeniería de Software | |
-| ![Henry Diaz](../assets/team/henry-diaz.png) | Henry Kevin Diaz Gutierrez | U201819674 | Ingeniería de Software | |
-| ![Adrian Quiroz](../assets/team/adrian-quiroz.png) | Adrian Quiroz Caceres | U202214864 | Ingeniería de Software | |
-| ![Joaquín Carranza](../assets/team/joaquin-carranza.png) | Joaquín Enrique Carranza Tesén | U20191B935 | Ingeniería de Software | |
+| ![Angelo Curi](../assets/team/angelo-curi.png) | Angelo Marcio Curi Marcelo | U202022387 | Ingeniería de Software |                                                                                                                                                                                                                                                |
+| ![Miguel Esquirva](../assets/team/miguel-esquirva.png) | Miguel Juan Diego Esquirva León | U202310837 | Ingeniería de Software |                                                                                                                                                                                                                                                |
+| ![Henry Diaz](../assets/team/henry-diaz.png) | Henry Kevin Diaz Gutierrez | U201819674 | Ingeniería de Software |                                                                                                                                                                                                                                                |
+| ![Adrian Quiroz](../assets/team/adrian-quiroz.png) | Adrian Quiroz Caceres | U202214864 | Ingeniería de Software |                                                                                                                                                                                                                                                |
+| ![Joaquín Carranza](../assets/team/joaquin-carranza.png) | Joaquín Enrique Carranza Tesén | U20191B935 | Ingeniería de Software |                                                                                                                                                                                                                                                |
 
 ## 1.2. Solution Profile
 
