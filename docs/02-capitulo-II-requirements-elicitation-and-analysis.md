@@ -368,6 +368,11 @@ Segmento Objetivo : Administrador de galeria
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+
+#### Estudiante pasajero
+
+![Administrador](./assets/videos/Screenshots/PERSONA_Empathy map.png)
+
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
 
