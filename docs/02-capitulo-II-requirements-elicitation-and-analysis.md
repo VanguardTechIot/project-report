@@ -182,6 +182,63 @@ Debido a que VanguardTech es una startup con una marca y trayectoria comercial a
 
 ## 2.2. Entrevistas
 ### 2.2.1.  Diseño de entrevistas
+#### Objetivos
+
+Recoger información sobre las necesidades, expectativas, dificultades y posibles preocupaciones de los administradores de galerías comerciales respecto a la gestión de la seguridad, la detección de incidentes y el control del consumo de servicios básicos como agua y energía.
+
+
+## Administrador de Galería
+### Preguntas
+
+##### Datos básicos
+
+* ¿Cuál es su nombre, edad y función dentro de la galería?
+* ¿Cuántos locales aproximadamente tiene la galería que administra?
+* ¿Cuáles son sus principales responsabilidades dentro de la administración de la galería?
+
+##### Gestión actual
+
+
+* ¿Cómo realiza actualmente el control y supervisión de los locales y áreas comunes?
+* ¿Con qué frecuencia realiza recorridos o inspecciones presenciales?
+* ¿Qué herramientas utiliza actualmente para registrar y consultar información de la galería?
+* ¿Qué actividades de la administración considera que le toman más tiempo o esfuerzo?
+
+##### Seguridad e incidentes
+
+* ¿Cómo se detecta actualmente un intento de ingreso no autorizado o una intrusión en la galería?
+* ¿Qué sucede cuando ocurre un incidente de seguridad fuera del horario de atención?
+* ¿Cómo se registra y verifica actualmente un incidente de seguridad?
+* ¿Cómo se detecta actualmente la presencia de humo o un posible incendio?
+* ¿Qué dificultades ha tenido para recibir o comunicar rápidamente una alerta ante este tipo de situaciones?
+
+##### Consumo y facturación
+
+* ¿Cómo se mide actualmente el consumo de agua y energía de cada local?
+* ¿Cómo se calcula actualmente el monto que corresponde pagar a cada inquilino por estos servicios?
+* ¿Qué problemas o reclamos suelen presentarse respecto al cobro de los servicios?
+* Cuando un inquilino cuestiona un cobro, ¿cómo verifica actualmente que el monto sea correcto?
+* ¿Qué información le sería útil consultar para comparar el consumo actual con períodos anteriores?
+
+##### Información y necesidades
+
+* ¿Qué información considera más importante tener disponible para conocer el estado general de la galería?
+* ¿Qué tipo de alertas considera que deberían comunicarse inmediatamente al administrador?
+* ¿Qué información le gustaría poder consultar desde una computadora o teléfono para facilitar su trabajo?
+* Si pudiera automatizar una actividad de la administración, ¿cuál elegiría y por qué?
+
+##### Sobre una solución tecnológica
+
+* ¿Qué características debería tener una plataforma para que realmente facilite la administración de la galería?
+* ¿Qué tan importante sería para usted contar con información histórica sobre incidentes y consumo de servicios?
+* ¿Qué importancia tendría que el sistema continúe registrando eventos aunque temporalmente se pierda la conexión a Internet?
+* ¿Qué preocupaciones tendría antes de implementar sensores y una plataforma IoT en la galería? (Ej. costo, instalación, mantenimiento, conectividad o facilidad de uso)
+
+##### Cierre
+
+* ¿Consideraría utilizar una solución tecnológica que ayude a automatizar la seguridad y el control de los servicios de la galería?
+* ¿Estaría dispuesto/a a participar en futuras pruebas o evaluaciones de una solución como esta?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
