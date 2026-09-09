@@ -347,6 +347,17 @@ Segmento Objetivo : Administrador de galeria
 </table>
 
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento Objetivo Administrador de Galeria**
+
+- Los entrevistados coinciden en que la administración de las galerías actualmente depende principalmente de recorridos presenciales, Excel, registros manuales y WhatsApp, lo que dificulta centralizar la información y genera una carga considerable en actividades como el control de pagos, consumos, mantenimiento y seguimiento de incidentes. Por ello, muestran interés en una plataforma que permita gestionar la información de los locales desde un solo sistema y reducir las tareas manuales.
+
+- En relación con la seguridad, los entrevistados consideran importante contar con alertas inmediatas ante situaciones como incendios, humo, intrusiones, cortes de energía y otros eventos anormales. Se identificó como una necesidad común mejorar la rapidez con la que la información llega al administrador, especialmente cuando este no se encuentra físicamente en la galería.
+
+- Respecto al control de servicios, los entrevistados manifestaron dificultades relacionadas con el registro y cálculo manual del consumo de agua y energía, así como con los reclamos de los inquilinos. En este sentido, consideran necesario disponer de historiales, gráficos y comparaciones por períodos que permitan detectar consumos anormales, verificar cobros y facilitar la toma de decisiones.
+
+- Por ultimo, los entrevistados valoran positivamente una solución IoT que sea sencilla de utilizar, accesible desde celular y computadora y que permita visualizar consumos, incidentes, alertas y el estado de los locales en tiempo real. También consideran importante que el sistema pueda conservar los registros incluso ante una pérdida temporal de conexión a Internet. Sin embargo, señalan como principales preocupaciones el costo de implementación, instalación, mantenimiento, conectividad y facilidad de uso. En general, los tres administradores muestran disposición a probar una solución de este tipo si demuestra ser confiable y permite reducir el trabajo manual.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
