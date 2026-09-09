@@ -180,6 +180,16 @@ Debido a que VanguardTech es una startup con una marca y trayectoria comercial a
 - Mejorar progresivamente la solución a partir de los resultados obtenidos.
 - Ampliar posteriormente la solución hacia otras galerías y nuevos servicios.
 
+## 2.2. Entrevistas
+### 2.2.1.  Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+## 2.3. Needfinding
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
 
 El Ubiquitous Language define un conjunto de términos propios del dominio de StorePulse que serán utilizados de manera consistente por el equipo durante el desarrollo del proyecto. Estos términos representan conceptos relacionados con la gestión de galerías comerciales, seguridad, consumo de servicios y la interacción entre administradores e inquilinos.
