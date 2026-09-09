@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+*.swp
+*.sublime-project
+
+# OS
+.DS_Store
+thumbs.db
+
+# Output temporales de compilación PDF/Pandoc
+build/
+dist/
+*.pdf
