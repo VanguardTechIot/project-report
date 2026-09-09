@@ -255,7 +255,7 @@ Segmento Objetivo : Administrador de galeria
     <td>27</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="assets/videos/Screenshots/Entrevista_Alvaro.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="../assets/videos/Screenshots/Entrevista_Alvaro.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
     En la entrevista, el administrador de la galería, Alvaro Lazarte, de 27 años, comenta que gestiona una galería con aproximadamente 120 locales y que sus principales responsabilidades son controlar pagos, servicios, mantenimiento, seguridad y atención a los comerciantes. Actualmente realiza recorridos presenciales y utiliza Excel, documentos físicos y WhatsApp, lo que dificulta centralizar la información y genera mayor esfuerzo en el control de pagos, consumos e incidentes. En cuanto a la seguridad, cuenta con cámaras y personal de vigilancia, pero reconoce que las alertas no siempre llegan rápidamente, especialmente fuera del horario de atención, y que la detección de humo o incendios aún no está completamente automatizada. Respecto al consumo de agua y energía, considera necesario contar con un historial por local que permita comparar períodos y detectar consumos anormales. Asimismo, señala que sería importante recibir alertas inmediatas sobre incendios, humo, intrusiones, cortes de energía y consumos fuera de lo normal. Sobre una solución tecnológica, considera fundamental que sea sencilla, centralice la información, permita consultar pagos, consumos e incidentes desde un solo sistema y genere alertas en tiempo real, incluso cuando exista una pérdida temporal de conexión. Finalmente, estaría dispuesto a utilizar una solución IoT y participar en futuras pruebas, siempre que sea confiable, tenga un costo razonable y reduzca efectivamente el trabajo manual de la administración.
     </td>
@@ -291,7 +291,7 @@ Segmento Objetivo : Administrador de galeria
     <td>26</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="assets/videos/Screenshots/Entrevista_Luis.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="../assets/videos/Screenshots/Entrevista_Luis.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
     En la entrevista, el administrador de la galería, Luis Ángel Becerra, de 26 años, comenta que gestiona una galería de aproximadamente 50 locales y que sus principales responsabilidades son supervisar los espacios, coordinar el mantenimiento, controlar los pagos de servicios y atender incidentes. Actualmente realiza recorridos diarios y utiliza Excel, documentos físicos y WhatsApp, por lo que considera que el control de consumos, pagos, supervisión e incidentes requiere bastante tiempo. En cuanto a la seguridad, utiliza cámaras y comunicación del personal, pero señala que las alertas no siempre llegan inmediatamente cuando no se encuentra físicamente en la galería. Respecto al consumo de agua y energía, considera importante contar con registros históricos, variaciones porcentuales y comparaciones mensuales para verificar reclamos y detectar anomalías. Asimismo, considera necesarias alertas inmediatas ante intrusiones, incendios, fugas de agua, cortes de energía y otras situaciones anormales. Sobre una solución tecnológica, señala que debería ser fácil de utilizar, accesible desde celular y computadora, mostrar información en tiempo real, generar alertas y conservar un historial, incluso ante pérdidas temporales de conexión. Finalmente, estaría dispuesto a implementar una solución IoT y participar en futuras pruebas, ya que considera que podría reducir el trabajo manual, mejorar el control y permitir una respuesta más rápida ante incidentes.
     </td>
@@ -325,7 +325,7 @@ Segmento Objetivo : Administrador de galeria
     <td>27</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="assets/videos/Screenshots/Entrevista_Victor.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="../assets/videos/Screenshots/Entrevista_Victor.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
     En la entrevista, el administrador de la galería, Víctor Ccopa, de 27 años, comenta que gestiona una galería de 5 locales y que sus principales responsabilidades son coordinar con los inquilinos, supervisar las áreas comunes, controlar los servicios, coordinar mantenimientos y atender incidentes. Actualmente realiza inspecciones diarias y utiliza Excel y WhatsApp, siendo el seguimiento de pagos, consumos y reparaciones algunas de las actividades que más tiempo le demandan. En cuanto a la seguridad, cuenta con cámaras, vigilancia y detectores de humo, pero señala que existe dificultad para recibir alertas de manera inmediata cuando ocurre un incidente. Respecto al consumo de agua y energía, considera importante disponer de un historial mensual y gráficos que permitan identificar aumentos inusuales y verificar los reclamos de los inquilinos. Asimismo, considera necesarias alertas inmediatas ante incendios, humo, intrusiones, cortes de energía y consumos anormales. Sobre una solución tecnológica, considera importante que sea sencilla, accesible desde el celular y capaz de mostrar rápidamente alertas, consumos, cámaras e información de cada local, además de continuar registrando eventos ante una pérdida de conexión a Internet. Finalmente, estaría dispuesto a utilizar una solución IoT y participar en futuras pruebas, siempre que sea fácil de aprender y contribuya a mejorar el control y reducir las tareas manuales.
     </td>
@@ -363,7 +363,7 @@ Segmento Objetivo : Administrador de galeria
 
 #### Administrador de Galeria
 
-![Administrador](./assets/videos/Screenshots/User_Persona_admi.png)
+![Administrador](../assets/videos/Screenshots/User_Persona_admi.png)
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
@@ -371,7 +371,7 @@ Segmento Objetivo : Administrador de galeria
 
 #### Estudiante pasajero
 
-![Administrador](./assets/videos/Screenshots/PERSONA_Empathy map.png)
+![Administrador](../assets/videos/Screenshots/PERSONA_Empathymap.png)
 
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
