@@ -369,7 +369,7 @@ Segmento Objetivo : Administrador de galeria
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
-#### Estudiante pasajero
+#### Administrador de Galeria
 
 ![Administrador](../assets/videos/Screenshots/PERSONA_Empathymap.png)
 
