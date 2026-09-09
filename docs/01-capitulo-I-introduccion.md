@@ -250,7 +250,7 @@ En esta sección el equipo declara de forma explícita las creencias que sostien
 
 A continuación, mostraremos el análisis de los procesos iterativos y descubrimientos realizados por los miembros del equipo VanguardTech para asentar las bases de valor propuesta dentro de la solución; centrándonos en solventar las problemáticas críticas y sobre todo maximizar el beneficio percibido por el cliente.
 
-![Lean-UX-Canvas - VanguardTech](../assets/ux/Lean-UX-Canvas.jpg)
+![Lean-UX-Canvas - VanguardTech](../assets/ux/lean-ux-canvas.jpg)
 
 <div class="page"></div>
 
