@@ -42,8 +42,29 @@
         <br><br>
         U202214864 - Quiroz Caceres, Adrian
         <br><br>
+        U20191B935 - Carranza Tesén, Joaquín Enrique 
+        <br><br>
     </p>
     <strong>Periodo 202602</strong><br>
     <strong>Setiembre 2026</strong>
 </div>
 
+
+## Contenido
+
+* [Secciones Preliminares](docs/00-secciones-preliminares.md)
+    * [Registro de Versiones del Informe](docs/00-secciones-preliminares.md#registro-de-versiones-del-informe)
+    * [Project Report Collaboration Insights](docs/00-secciones-preliminares.md#project-report-collaboration-insights)
+    * [Student Outcome](docs/00-secciones-preliminares.md#student-outcome)
+* [Capítulo I: Introducción](docs/01-capitulo-I-introduccion.md)
+  * [1.1. Startup Profile](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:5)
+      * [1.1.1. Descripción de la Startup](docs/docs/01-capitulo-I-introduccion.md:7)
+      * [1.1.2. Perfiles de integrantes del equipo](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:23)
+  * [1.2. Solution Profile](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:35)
+      * [1.2.1. Antecedentes y problemática](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:39)
+      * [1.2.2. Lean UX Process](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:140)
+          * [1.2.2.1. Lean UX Problem Statements](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:144)
+          * [1.2.2.2. Lean UX Assumptions](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:148)
+          * [1.2.2.3. Lean UX Hypothesis Statements](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:152)
+          * [1.2.2.4. Lean UX Canvas](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:156)
+  * [1.3. Segmentos objetivo](docs/01-capitulo-I-introduccion.md#docs/01-capitulo-I-introduccion.md:160)
