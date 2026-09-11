@@ -1,2 +1,0 @@
-# Anexos
-## Videos de Exposiciones
