@@ -91,4 +91,100 @@
     <td>Henry Diaz</td>
     <td>Se actualizó la sección de introducción y se corrigió un error tipográfico en un nombre.</td>
   </tr>
+  <tr>
+    <td>2.0</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se creó la página de carátula (docs/front-matter/01-cover.md) siguiendo la estructura document-as-code.</td>
+  </tr>
+  <tr>
+    <td>2.1</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se movió el logo institucional UPC a la carpeta assets/branding/.</td>
+  </tr>
+  <tr>
+    <td>2.2</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se movió el Lean UX Canvas a la carpeta assets/lean-ux/.</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se movieron los Empathy Maps y User Personas a la carpeta assets/research/.</td>
+  </tr>
+  <tr>
+    <td>2.4</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se renombró un archivo en assets/team/ para seguir la convención de nombres.</td>
+  </tr>
+  <tr>
+    <td>2.5</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se movieron las imágenes de entrevistas a la carpeta assets/videos/interviews/.</td>
+  </tr>
+  <tr>
+    <td>2.6</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron los archivos de front-matter: carátula, registro de versiones, collaboration insights, tabla de contenido y student outcome.</td>
+  </tr>
+  <tr>
+    <td>2.7</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron las secciones del Capítulo I en archivos independientes: startup profile, background and problem statement, lean ux process y target audience.</td>
+  </tr>
+  <tr>
+    <td>2.8</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron las secciones del Capítulo II en archivos independientes: competitors, interviews, needfinding, big picture eventstorming y ubiquitous language.</td>
+  </tr>
+  <tr>
+    <td>2.9</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron las secciones del Capítulo III en archivos independientes: user stories, impact mapping y product backlog.</td>
+  </tr>
+  <tr>
+    <td>2.10</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron las secciones del Capítulo IV en archivos independientes: strategic-level domain-driven design, context mapping, software architecture e identity and access management bounded context.</td>
+  </tr>
+  <tr>
+    <td>2.11</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregaron las conclusiones y recomendaciones, la bibliografía y el anexo de presentation videos.</td>
+  </tr>
+  <tr>
+    <td>2.12</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se eliminó el .gitignore.</td>
+  </tr>
+  <tr>
+    <td>2.13</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se refactorizaron las secciones preliminares y los capítulos I-IV, separándolos en archivos independientes por sección, y se movieron las conclusiones y los anexos a sus propios archivos.</td>
+  </tr>
+  <tr>
+    <td>2.14</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se actualizó el README con la nueva estructura de directorios.</td>
+  </tr>
+  <tr>
+    <td>2.15</td>
+    <td>10/09/26</td>
+    <td>Adrian Quiroz</td>
+    <td>Se agregó el archivo explain.md en cada carpeta de assets (architecture, branding, iot, lean-ux, requirements, research, sprints, team, ui, ux, videos), documentando su propósito y convención de nombres.</td>
+  </tr>
 </table>
