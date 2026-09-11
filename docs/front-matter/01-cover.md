@@ -29,7 +29,7 @@ Equipo
 
 Proyecto
 
-### **(NOMBRE DEL PROYECTO)**
+### **StorePulse**
 
 <br>
 
