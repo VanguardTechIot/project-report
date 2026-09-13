@@ -236,6 +236,40 @@ Asimismo, recoger información sobre las necesidades, expectativas, dificultades
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>5</td>
+    <th>Nombre</th>
+    <td>Josué Arrunategui</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>25</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="../../assets/videos/interviews/interview-josue.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+    Josué gestiona las ventas cotidianas y la coordinación con clientes y proveedores apoyándose principalmente en la aplicación WhatsApp. Para las transacciones bancarias y cobros utiliza aplicaciones financieras de transferencias (Yape, Plin, Banca Móvil) y terminales POS para cobro con tarjeta. La comunicación con la administración de la galería se realiza de manera exclusiva a través de WhatsApp. Sin embargo, señala como principal dificultad la demora en las respuestas, la incertidumbre sobre la identidad exacta del interlocutor y la pérdida de avisos o reclamos importantes entre el flujo de mensajes de los grupos multitudinarios sin un registro formal.<br>
+    Al finalizar la jornada laboral, asegura su local cerrando con candado y resguardando los productos de mayor valor comercial en un espacio específico. Si bien la galería cuenta con cámaras de vigilancia y personal de seguridad privado, considera que su negocio está medianamente protegido. Su principal preocupación radica en la imposibilidad de verificar en tiempo real el estado de su local fuera del horario de atención cuando la galería permanece cerrada. Además, ante un eventual incidente de seguridad, no cuenta con un sistema de alertas automáticas directas, dependiendo únicamente de avisos o llamadas telefónicas manuales por parte de la administración a posteriori.<br>
+    El cobro mensual de los servicios básicos es notificado directamente por la administración, y los pagos son efectuados por el inquilino vía Yape o transferencia bancaria. El punto de dolor crítico expresado por el entrevistado surge cuando el monto del recibo se incrementa de un mes a otro, ya que la administración no ofrece un desglose transparente que explique el motivo del alza ni qué porcentaje del cobro corresponde exactamente al consumo propio versus las áreas comunes de la galería
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQCMTxDKy25dS6cnhVy1XjHdAeq5B9Q-uCyk5h0td1VrJK8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QQ8A8L](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113612_upc_edu_pe/IQDQDWH042Z0RKnjKOJtqHeEAW70P-U335S0q82ywFth16A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K7WiDH]">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 5:54
+    </td>
+  </tr>
+</table>
 ---
 
 ### 2.2.3. Análisis de entrevistas
