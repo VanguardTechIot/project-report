@@ -258,7 +258,7 @@ Asimismo, recoger información sobre las necesidades, expectativas, dificultades
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQCMTxDKy25dS6cnhVy1XjHdAeq5B9Q-uCyk5h0td1VrJK8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QQ8A8L](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113612_upc_edu_pe/IQDQDWH042Z0RKnjKOJtqHeEAW70P-U335S0q82ywFth16A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K7WiDH]">
+      <a href="https://upcedupe-my.sharepoint.com/personal/u202113612_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113612_upc_edu_pe%2FDocuments%2FRecordings%2Fvideo1415865242%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8cc7e885-a479-4bc4-814f-3e65bd7ce79f">
         Ver grabación
       </a>
     </td>
