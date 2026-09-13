@@ -6,6 +6,8 @@
 
 Recoger información sobre las necesidades, expectativas, dificultades y posibles preocupaciones de los administradores de galerías comerciales respecto a la gestión de la seguridad, la detección de incidentes y el control del consumo de servicios básicos como agua y energía.
 
+Asimismo, recoger información sobre las necesidades, expectativas, dificultades y preocupaciones de los inquilinos y comerciantes minoristas respecto a la seguridad de la mercadería almacenada en sus puestos, la transparencia y equidad en el cobro y prorrateo de los servicios básicos, y la viabilidad de utilizar herramientas móviles para la gestión y comunicación con la administración de la galería.
+
 ### Preguntas - Administrador de Galería
 
 ##### Datos básicos
@@ -55,6 +57,46 @@ Recoger información sobre las necesidades, expectativas, dificultades y posible
 
 * ¿Consideraría utilizar una solución tecnológica que ayude a automatizar la seguridad y el control de los servicios de la galería?
 * ¿Estaría dispuesto/a a participar en futuras pruebas o evaluaciones de una solución como esta?
+
+### Preguntas - Inquilino de Local Comercial
+
+##### Datos básicos
+
+* ¿Cuál es su nombre, edad y qué tipo de productos comercializa en su local?
+* ¿Cuánto tiempo lleva alquilando y operando en esta galería comercial?
+* ¿Cuenta con personal de apoyo o atiende y gestiona el puesto de manera directa?
+
+##### Gestión y operación del local
+
+* ¿Qué aplicaciones o herramientas en su teléfono móvil utiliza habitualmente para el día a día de su negocio?
+* ¿Cómo se comunica o coordina habitualmente con la administración de la galería ante cualquier consulta, aviso o reclamo?
+* ¿Qué dificultades encuentra en los canales de comunicación actuales con la administración de la galería?
+
+##### Seguridad e incidentes
+
+* ¿Cómo protege actualmente la mercadería física que queda almacenada dentro de su puesto fuera del horario de atención?
+* ¿Qué sucede o cómo se entera actualmente si ocurre un incidente de seguridad (intrusión, robo o emergencia) fuera del horario comercial?
+* ¿Qué mecanismos tiene a su disposición para verificar el estado de su local o recibir una alerta oportuna ante una situación de riesgo (como conato de incendio o robo)?
+* ¿Qué tan protegido considera que se encuentra el capital invertido en su mercadería durante las noches o fines de semana?
+
+##### Control de servicios y prorrateo
+
+* ¿Cómo se le informa y cómo se calcula el cobro mensual por los servicios básicos (energía eléctrica, agua) y mantenimiento de la galería?
+* ¿Ha experimentado dificultades, sobrecostos o desacuerdos respecto al monto que se le cobra por el prorrateo de los servicios compartidos?
+* ¿A través de qué medio realiza actualmente el pago de estos conceptos a la administración y qué inconvenientes se le presentan?
+
+##### Sobre una solución tecnológica móvil
+
+* ¿Qué tan conveniente le resultaría recibir notificaciones y alertas en tiempo real en su teléfono móvil sobre la seguridad de su puesto?
+* ¿Qué facilidades esperaría tener si pudiera consultar el desglose exacto de sus consumos y reportar incidentes directamente desde su celular?
+* ¿Estaría dispuesto/a a adoptar una aplicación móvil para la interacción y gestión con la galería?
+
+##### Cierre
+
+* Si pudiera cambiar una sola cosa sobre la forma en que se gestiona o cuida esta galería comercial, ¿cuál sería?
+* ¿Estaría dispuesto/a a participar en futuras pruebas o evaluaciones de una solución orientada a inquilinos?
+
+---
 
 ### 2.2.2. Registro de entrevistas
 
@@ -159,6 +201,43 @@ Recoger información sobre las necesidades, expectativas, dificultades y posible
   </tr>
 </table>
 
+*Segmento Objetivo - Inquilino de local comercial*
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>4</td>
+    <th>Nombre</th>
+    <td>Cristina Muñoz</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>24</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="../../assets/videos/interviews/interview-cristina.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+    En la entrevista, la inquilina y comerciante minorista, Cristina Muñoz, de 24 años, comenta que opera un stand de confección y venta de ropa juvenil femenina en el segundo piso de una galería comercial en Gamarra desde hace año y medio, atendiéndolo directamente de lunes a sábado. Manifiesta que su teléfono inteligente es su principal herramienta de trabajo (usando WhatsApp Business, Yape, Plin y banca móvil para ventas y pagos), ya que no utiliza computadora en el puesto. Respecto a la comunicación con la administración, señala que es ineficiente y manual, requiriendo hacer filas en la oficina del sótano o lidiar con mensajes ignorados en WhatsApp, lo que interrumpe la atención de su negocio. En cuanto a la seguridad, expresa una gran preocupación e intranquilidad nocturna, dado que todo su capital de trabajo está invertido en la mercadería física almacenada dentro del stand y no cuenta con ningún mecanismo de monitoreo ni alertas tempranas ante robos, aperturas no autorizadas o conatos de incendio. Respecto a los servicios, denuncia falta de transparencia y sobrecostos en el cobro de la luz derivado de un prorrateo grupal arbitrario que no refleja su bajo consumo real frente a puestos con maquinaria pesada, además de la incomodidad de tener que pagar físicamente con vouchers impresos. Finalmente, valora de manera sumamente positiva una solución móvil que le brinde alertas de seguridad en tiempo real en su celular, desglose transparente de sus cobros y facilidades de pago digital, manifestando total disposición a adoptarla y participar en futuras pruebas.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQCMTxDKy25dS6cnhVy1XjHdAeq5B9Q-uCyk5h0td1VrJK8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QQ8A8L">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 9:12
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento Objetivo - Administrador de Galería**
@@ -167,3 +246,10 @@ Recoger información sobre las necesidades, expectativas, dificultades y posible
 - En relación con la seguridad, los entrevistados consideran importante contar con alertas inmediatas ante situaciones como incendios, humo, intrusiones, cortes de energía y otros eventos anormales. Se identificó como una necesidad común mejorar la rapidez con la que la información llega al administrador, especialmente cuando este no se encuentra físicamente en la galería.
 - Respecto al control de servicios, los entrevistados manifestaron dificultades relacionadas con el registro y cálculo manual del consumo de agua y energía, así como con los reclamos de los inquilinos. En este sentido, consideran necesario disponer de historiales, gráficos y comparaciones por períodos que permitan detectar consumos anormales, verificar cobros y facilitar la toma de decisiones.
 - Por último, los entrevistados valoran positivamente una solución IoT que sea sencilla de utilizar, accesible desde celular y computadora y que permita visualizar consumos, incidentes, alertas y el estado de los locales en tiempo real. También consideran importante que el sistema pueda conservar los registros incluso ante una pérdida temporal de conexión a Internet. Sin embargo, señalan como principales preocupaciones el costo de implementación, instalación, mantenimiento, conectividad y facilidad de uso. En general, los tres administradores muestran disposición a probar una solución de este tipo si demuestra ser confiable y permite reducir el trabajo manual.
+
+**Segmento Objetivo - Inquilino de Local Comercial**
+
+- La entrevistada evidencia un perfil altamente dependiente del teléfono inteligente para la gestión integral de su negocio (ventas por WhatsApp, cobros por billeteras digitales y pagos a proveedores), operando sin equipos de cómputo en el local. Esto valida que cualquier herramienta tecnológica dirigida a los comerciantes debe ser concebida como una solución 100 % móvil, intuitiva y accesible desde el celular.
+- En materia de seguridad, se identificó una alta percepción de vulnerabilidad e incertidumbre durante los horarios de cierre de la galería, originada porque la totalidad del capital de trabajo de los comerciantes se encuentra concentrada en la mercadería física almacenada dentro del puesto. La ausencia de mecanismos de alerta directa e inmediata en caso de intrusiones, aperturas forzadas o riesgos de incendio genera una necesidad crítica de supervisión y notificación remota en tiempo real.
+- Respecto al control de servicios y costos operativos, se constató un fuerte descontento derivado de la opacidad en los cobros por prorrateo de energía eléctrica y servicios comunes. La falta de medidores individuales o de registros desagregados genera sobrecostos percibidos como arbitrarios e injustos por parte de los inquilinos de menor consumo, sumado a la pérdida de tiempo y productividad que ocasiona realizar pagos presenciales y presentar comprobantes físicos en la administración.
+- Finalmente, existe una disposición muy favorable hacia una solución tecnológica móvil que actúe como canal directo con la administración. La inquilina prioriza contar con alertas de seguridad instantáneas que le brinden tranquilidad fuera de su jornada comercial, así como visualizar de forma transparente el desglose de sus consumos y realizar pagos digitales, mostrando apertura a participar en pruebas y validar herramientas que modernicen la operatividad del conglomerado comercial.
